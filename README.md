@@ -2,6 +2,10 @@
 
 <h2>HTML and BOOTSTRAP LIBRARY technologies were used in this project.<h2>
 
+Project Gif;
 
-![Project Gif;](bsproje1.gif)
-![Project Gif2;](bsproje2.gif)
+
+<img src="bsproje.gif"/>
+
+<img src="bsprojem.gif"/>
+# UdemigEducation
